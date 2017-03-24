@@ -9,6 +9,7 @@ this programe code is run under icarus verilog tool in linux so those who dont k
 1. open your terminal using ctrl+alt+t
 2. now type sudo apt-get install iverilog
 3. now type sudo apt-get install gtkwave 
+
 for running the program code please type iverilog -o run risc.v test_bench.v
 after compilation of source code then enter ./run
 now you will find a .vcd file now run that file and you are ready to go.
